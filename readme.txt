@@ -1,6 +1,5 @@
-Ali Yağız Mumcu 21801767 Section-3
-
-User Emails and Passwords:
+Make sure that you have installed wamp, mamp or lamp. Please import bms.sql to phpmyadmin in order to initialize the database.
+Sanmple User Emails and Passwords:
 john@one.com - john
 GMHikaru@protonmail.com - hikaru
 GMMagnus@protonmail.com - magnus
